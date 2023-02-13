@@ -1,18 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package printstudentlist;
 
-/**
- *
- * @author srinivsi
- */
 public class PrintStudentList {
 
-    /**
-     * store and print student details
-     */
     public static void main(String[] args) 
     {
        Student[] list = new Student[3]; // array of objects
